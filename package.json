@@ -1,0 +1,12 @@
+{
+  "name": "entregavel-4",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Algoritmos fundamentais com programação defensiva e testes unitários.",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
